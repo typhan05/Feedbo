@@ -1,0 +1,10 @@
+.big-ninja-feedbo {
+    width: 100% !important;
+}
+.big-ninja-feedbo .ant-tooltip-inner {
+    min-height: 28px;
+    font-size: 12px;
+}
+.big-ninja-feedbo .form-account-info .wrap-button {
+    margin: 0;
+}
